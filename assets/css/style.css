@@ -240,7 +240,7 @@ a.nav__link {
   .home__title{
       
     font-size: var(--big-font-size);
-    margin-bottom: var(--mb-5);
+    margin-bottom: var(--mb-3);
     color: var(--third-color);
   }
   .home__title-color{
@@ -267,7 +267,7 @@ a.nav__link {
   }
   .home__img img {
       margin-left: -1.5rem;
-      margin-bottom: var(--mb-2);
+      margin-bottom: 2rem;
       border-radius: 50%;
   }
 
@@ -282,7 +282,7 @@ a.nav__link {
   }
 
   .button:hover{
-      box-shadow: 0 10px 36px var(--third-color);
+      box-shadow: 0 2px 20px var(--third-color);  
       color: var(--second-color);
   }
 
